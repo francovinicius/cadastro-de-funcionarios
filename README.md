@@ -1,6 +1,6 @@
 # Projeto - Cadastro de Funcionários
 
-O projeto Cadastro de Funcionários é uma aplicação desenvolvida para gerenciar o cadastro e a exibição de informações de funcionários de uma empresa. A aplicação pode ser acessada através do link [https://cadastro-de-funcionarios-livid.vercel.app/](https://cadastro-de-funcionarios-livid.vercel.app/).
+O projeto Cadastro de Funcionários é uma aplicação desenvolvida para gerenciar o cadastro, a exibição, a atualização e a exclusão de informações de funcionários de uma empresa. A aplicação permite realizar as quatro operações básicas de um CRUD (Create, Read, Update e Delete) para manter os registros dos funcionários atualizados.
 
 ### Tecnologias Utilizadas
 - HTML
